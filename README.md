@@ -5,6 +5,7 @@
 | **Platform** | **Type** | **Description** | **Repository** |
 |--------------|----------|-----------------|----------------|
 | **SO-100 & SO-101** | Robotic Arms | Standard Open robotic arms | https://github.com/TheRobotStudio/SO-ARM100 |
+| **SO-ARM 102** | Robotic Arms | 3D-printable leader-follower arms with a parallel gripper for LeRobot | https://github.com/roboninecom/SO-ARM-102 |
 | **LeKiwi** | Mobile Manipulator | Low-Cost Mobile Manipulator for so-100/101 arm | https://github.com/SIGRobotics-UIUC/LeKiwi |
 | **XLeRobot** | Mobile Manipulator | Built on top of LeKiwi | https://github.com/Vector-Wangel/XLeRobot |
 | **Bambot** | Mobile Manipulator | Built on top of LeKiwi | https://github.com/timqian/bambot |
